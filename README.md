@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome nome é Thiago, sou estudante de programação e apaixonado por tecnologia
+Olá, meu nome é Thiago, sou estudante de programação e apaixonado por tecnologia
 
 
 ## 🌐 Socials:
